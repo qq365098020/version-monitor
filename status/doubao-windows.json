@@ -1,0 +1,18 @@
+{
+  "platform": "Windows",
+  "source": "https://ime.doubao.com/pc",
+  "baseline": {
+    "version": "0.9.2",
+    "date": "2026-10-10",
+    "installer": "DoubaoIME_Installer_0.9.2.7_release.exe"
+  },
+  "latest": {
+    "version": "0.9.2",
+    "date": "2026-10-10",
+    "installer": "DoubaoIME_Installer_0.9.2.7_release.exe",
+    "href": null
+  },
+  "verification": "historical_user_confirmed_2026-10-14_not_verified_by_workflow",
+  "lastCheckedAt": null,
+  "history": []
+}
