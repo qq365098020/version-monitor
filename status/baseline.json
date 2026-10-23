@@ -13,6 +13,16 @@
     "stable": {
       "version": "iOS 27.0.1",
       "build": "24A446"
+    },
+    "stableDeviceSpecific": {
+      "iPhoneDuo": {
+        "version": "iOS 27.1",
+        "build": "24A94425",
+        "releaseDateUS": "2026-10-22",
+        "releaseDateChina": "2026-10-23",
+        "notified": "2026-10-23",
+        "notes": "iPhone Duo only; no other iPhones. Build corroborated by Apple-signed IPSW listings; Apple security release page confirms version."
+      }
     }
   },
   "doubaoWindows": {
