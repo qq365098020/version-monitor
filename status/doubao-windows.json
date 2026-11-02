@@ -7,15 +7,15 @@
     "installer": "DoubaoIME_Installer_0.9.2.7_release.exe"
   },
   "latest": {
-    "version": "0.9.3",
-    "date": "2026-10-26",
-    "installer": "DoubaoIME_Installer_0.9.3.20_release.exe",
-    "href": "https://lf-wave.doubaocdn.com/obj/doubao-ime/app/windows/DoubaoIME_Installer_0.9.3.20_release.exe"
+    "version": "1.0.0",
+    "date": "2026-11-02",
+    "installer": "DoubaoIME_Installer_1.0.0.23_release.exe",
+    "href": "https://lf-wave.doubaocdn.com/obj/doubao-ime/app/windows/DoubaoIME_Installer_1.0.0.23_release.exe"
   },
-  "lastCheckedAt": "2026-11-02T00:11:25.865Z",
+  "lastCheckedAt": "2026-11-02T10:28:08.831Z",
   "verification": "complete_playwright_chromium",
   "candidateChangeRelativeToBaseline": true,
-  "firstSeenThisRun": false,
+  "firstSeenThisRun": true,
   "history": [
     {
       "key": "0.9.2|2026-10-10|DoubaoIME_Installer_0.9.2.7_release.exe",
@@ -30,6 +30,13 @@
       "date": "2026-10-26",
       "installer": "DoubaoIME_Installer_0.9.3.20_release.exe",
       "firstSeenAt": "2026-10-26T08:26:20.096Z"
+    },
+    {
+      "key": "1.0.0|2026-11-02|DoubaoIME_Installer_1.0.0.23_release.exe",
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "installer": "DoubaoIME_Installer_1.0.0.23_release.exe",
+      "firstSeenAt": "2026-11-02T10:28:08.831Z"
     }
   ]
 }
