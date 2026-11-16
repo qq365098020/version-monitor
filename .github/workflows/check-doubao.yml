@@ -21,7 +21,8 @@ concurrency:
 
 jobs:
   windows-version:
-    runs-on: ubuntu-latest
+    # Pin Ubuntu while Playwright 1.57.0 does not support Ubuntu 26.04.
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
     steps:
       - name: Check out repository
