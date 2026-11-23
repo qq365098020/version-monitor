@@ -10,7 +10,9 @@
     "version": "1.1.1",
     "date": "2026-11-23",
     "installer": "DoubaoIME_Installer_1.1.1.12_release.exe",
-    "href": "https://lf-wave.doubaocdn.com/obj/doubao-ime/app/windows/DoubaoIME_Installer_1.1.1.12_release.exe"
+    "href": "https://lf-wave.doubaocdn.com/obj/doubao-ime/app/windows/DoubaoIME_Installer_1.1.1.12_release.exe",
+    "notified": true,
+    "notifiedAt": "2026-11-24T00:02:40+08:00"
   },
   "lastCheckedAt": "2026-11-23T11:45:03.026Z",
   "verification": "complete_playwright_chromium",
@@ -43,7 +45,9 @@
       "version": "1.1.1",
       "date": "2026-11-23",
       "installer": "DoubaoIME_Installer_1.1.1.12_release.exe",
-      "firstSeenAt": "2026-11-23T11:45:03.026Z"
+      "firstSeenAt": "2026-11-23T11:45:03.026Z",
+      "notified": true,
+      "notifiedAt": "2026-11-24T00:02:40+08:00"
     }
   ]
 }
