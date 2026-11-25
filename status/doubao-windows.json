@@ -12,7 +12,7 @@
     "installer": "DoubaoIME_Installer_1.1.1.12_release.exe",
     "href": "https://lf-wave.doubaocdn.com/obj/doubao-ime/app/windows/DoubaoIME_Installer_1.1.1.12_release.exe"
   },
-  "lastCheckedAt": "2026-11-24T23:44:18.122Z",
+  "lastCheckedAt": "2026-11-25T12:00:54.226Z",
   "verification": "complete_playwright_chromium",
   "candidateChangeRelativeToBaseline": true,
   "firstSeenThisRun": false,
